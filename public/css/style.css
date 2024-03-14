@@ -3,6 +3,17 @@
     text-decoration: underline;
 }
 
+.navbar-custom {
+    background-color: seagreen;
+}
+
+.navbar-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
 .unButton {
     background: none;
     border: none;
@@ -18,7 +29,7 @@
 }
 
 .comment {
-    background-color: aqua;
+    background-color: rgb(204, 201, 34);
 }
 
 .inlineMe {
@@ -31,6 +42,6 @@
 
 .boldMe {
     font-weight: bold;
-    color: black;
+    color: rgb(187, 184, 19);
     text-decoration: underline;
 }
