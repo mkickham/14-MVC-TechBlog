@@ -1,0 +1,18 @@
+[
+    {
+        "title": "My first post",
+        "contents": "I love my coding job"
+    },
+    {
+        "title": "Github Repo",
+        "contents": "Check out my github repo"
+    },
+    {
+        "title": "I <3 Javascript",
+        "contents": "Javascript is so cool!"
+    },
+    {
+        "title": "Databases are fun",
+        "contents": "Learning to use db's is great"
+    }
+]

@@ -1,0 +1,36 @@
+.title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.unButton {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: green;
+    text-decoration: none;
+    font-size: 85%;
+}
+
+.goRight {
+    padding-left: 25px;
+}
+
+.comment {
+    background-color: aqua;
+}
+
+.inlineMe {
+    display: inline;
+}
+
+.centerMe {
+    text-align: center;
+}
+
+.boldMe {
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
