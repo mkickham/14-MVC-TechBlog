@@ -94,9 +94,11 @@ https://github.com/mkickham/14-MVC-TechBlog
 
 https://app.screencastify.com/v3/watch/Gtdwf6dzYufyPD2DB1dL 
 
-## Heroku (Render) Link
+## Heroku Link
 
-I was given special permission to deploy to Render because I had several issues trying to log in to Heroku. I was given permission by a BCS Learning Assistant, photos below confirm this agreement.
+I was given special permission to deploy to Render because I had several issues trying to log in to Heroku. I was given permission by a BCS Learning Assistant, photos below confirm this agreement. However, I do not think the assistant realized that Render does not support MySQL. In discussing this with my instructor and TA, I decided the best course of action was to submit the assignment and then hope that Heroku will get back to me unlocking my account.
+
+The above video on screencastify will confirm that the website is indeed functional.
 
 ![alt text](images/heroku%20issue%20one.png)
 
